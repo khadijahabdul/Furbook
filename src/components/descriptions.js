@@ -8,28 +8,26 @@ function Descriptions() {
         <div className="col">
           <h5 className="title-text">Real Cats</h5>
           <p className="sub-text">
-            Contrary to popular belief, cats aren't loners. At furbook, we know
-            cats need friendship, affection, and comradery. It is our core
-            belief that beneath every cat's hard, angry, exterior there is a pet
-            who jus wants to play and cuddle with a friend
+            Cats are terrible animals. I do not like cats at all. Contrary to
+            popular beliefs regarding their cuteness i believe they are really
+            scary and horrible animals. Sorry just my opinion.
           </p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Dogs</h5>
           <p className="sub-text">
-            Dogs are man's best friend. But dogs can also be dog's best friend.
-            Maybe even bester than man's best friend. On furbook, you can find
-            millions of other dogs who can be a loyal companion, trusted
-            confidant, and reliable wrestling partner
+            Dogs are really cute. I will never own one as a pet though or let
+            anyone in my household own one, they still cute though. Dogs have
+            many benefits, they don't just bark and eat they help the blind, the
+            mentally ill and so much more. I love dogs.
           </p>
         </div>
         <div className="col">
           <h5 className="title-text">Real Friends</h5>
           <p className="sub-text">
-            s Who says cats and dogs can't get along? Here at Furbook, we
-            believe all pets can be best friends. Our furbook users believe it
-            doesn't matter if you are a cat, dog, rabbit, or ferret; underneath
-            that fur we are all cute, wonderful pets.{" "}
+            Cats and dogs don't really get along. I don't know why they just
+            don't. But Furbook is going to fix this dilemma. Bring your cats and
+            dogs to us and we would make them the best of friends.
           </p>
         </div>
       </div>
